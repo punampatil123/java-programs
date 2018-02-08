@@ -9,7 +9,7 @@ String s=scan.next();
 System.out.println("name"+s);
 int i=scan.nextInt();
 System.out.println("rollno"+i);
-float f=scan.nextFloat();
+float f = scan.nextFloat();
 System.out.println("per"+f);
 
 
