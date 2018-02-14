@@ -1,11 +1,11 @@
-class static
+class StaticDemo
 {
     static  int svalue=10;
     {
-        Sysyem.out.println("i am in static"+svalue);
+        System.out.println("i am in static"+svalue);
     }
 
     public static void main(String[]args){
-        System.out.println("Hello")
+        System.out.println("Hello");
         }
 }
